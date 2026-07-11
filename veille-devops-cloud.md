@@ -85,6 +85,11 @@
 - [Containerd](https://containerd.io/) - Container runtime
 - [CRI-O](https://cri-o.io/) - Lightweight container runtime
 
+### Platform Engineering
+- [Backstage](https://backstage.io/) - Internal developer platform (Spotify/CNCF)
+- [Score](https://score.dev/) - Spec de workload déclarative portable
+- [Karpenter](https://karpenter.sh/) - Autoscaling K8s nodes (AWS)
+
 ---
 
 ## 🔄 3. CI/CD & Automation
@@ -559,4 +564,4 @@
 
 ---
 
-*Dernière mise à jour: Octobre 2025*
+*Dernière mise à jour: Juillet 2026*

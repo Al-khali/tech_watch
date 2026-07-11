@@ -12,11 +12,15 @@
 - [Hugging Face Blog](https://huggingface.co/blog) - NLP, LLM et modèles open-source
 - [Papers with Code](https://paperswithcode.com/) - Derniers papiers de recherche avec implémentations
 - [AI Alignment Forum](https://www.alignmentforum.org/) - Discussions sur la sécurité et l'alignement de l'IA
+- [Simon Willison's Blog](https://simonwillison.net/) - Analyses fines sur les LLM et outils IA
+- [Latent Space](https://www.latent.space/) - Newsletter/podcast référence sur l'ingénierie IA
+- [Ahead of AI (Sebastian Raschka)](https://magazine.sebastianraschka.com/) - Recherche ML/LLM vulgarisée
 
 ### Newsletters
 - [Import AI](https://jack-clark.net/) - Newsletter hebdomadaire sur l'IA par Jack Clark
 - [The Algorithm (MIT)](https://www.technologyreview.com/newsletter-preferences/) - Newsletter IA du MIT Technology Review
 - [TLDR AI](https://tldr.tech/ai) - Résumé quotidien de l'actualité IA
+- [The Rundown AI](https://www.therundown.ai/) - Actualité IA quotidienne
 
 ### Communautés & Forums
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Subreddit ML
@@ -74,6 +78,8 @@
 - [Ars Technica](https://arstechnica.com/) - Analyses techniques approfondies
 - [MIT Technology Review](https://www.technologyreview.com/) - Technologies émergentes
 - [Wired](https://www.wired.com/) - Tech et culture digitale
+- [404 Media](https://www.404media.co/) - Investigations tech indépendantes
+- [Stratechery](https://stratechery.com/) - Analyse stratégie tech par Ben Thompson
 
 ### Newsletters
 - [TLDR Newsletter](https://tldr.tech/) - Résumé quotidien des news tech
@@ -123,7 +129,23 @@
 
 ---
 
-## 🚀 5. Projets Tendance & Cutting-Edge
+## 🧑‍💻 5. AI Coding Agents & Developer Tools
+
+### Assistants & Agents
+- [Claude Code](https://claude.com/product/claude-code) - CLI agentique d'Anthropic
+- [Anthropic Engineering Blog](https://www.anthropic.com/engineering) - Bonnes pratiques agents IA
+- [Cursor Blog](https://www.cursor.com/blog) - Éditeur IA-first
+- [GitHub Copilot Blog](https://github.blog/tag/github-copilot/) - Updates Copilot
+- [Aider](https://aider.chat/) - Pair programming IA en CLI, open-source
+- [Continue.dev](https://continue.dev/) - Assistant de code open-source
+
+### Écosystème Agents
+- [LangChain Blog](https://blog.langchain.dev/) - Frameworks d'agents LLM
+- [Model Context Protocol](https://modelcontextprotocol.io/) - Standard d'intégration outils/LLM
+
+---
+
+## 🚀 6. Projets Tendance & Cutting-Edge
 
 ### Platforms de Découverte
 - [GitHub Trending](https://github.com/trending) - Repos GitHub tendance (quotidien/hebdo/mensuel)
@@ -208,4 +230,4 @@
 
 ---
 
-*Dernière mise à jour: Octobre 2025*
+*Dernière mise à jour: Juillet 2026*
