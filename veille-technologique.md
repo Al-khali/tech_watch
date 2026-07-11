@@ -32,6 +32,39 @@
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Interviews avec des experts en IA
 - [The TWIML AI Podcast](https://twimlai.com/) - Machine Learning et Data Science
 
+### LLM Locaux & Open-Weight
+- [Ollama](https://ollama.com/) - Faire tourner des LLM en local facilement
+- [LM Studio](https://lmstudio.ai/) - GUI pour LLM locaux
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - Inférence LLM en C/C++, base de nombreux outils locaux
+- [Unsloth](https://unsloth.ai/) - Fine-tuning rapide et léger de LLM
+- [Mistral AI](https://mistral.ai/news) - Blog du principal éditeur open-weight européen
+- [DeepSeek](https://www.deepseek.com/) - Modèles open-weight performants (Chine)
+- [Qwen Blog](https://qwenlm.github.io/) - Modèles open-weight d'Alibaba
+
+### Modèles de Raisonnement & Frontier Labs
+- [OpenAI Research](https://openai.com/research/) - Papers et annonces modèles (o-series, GPT)
+- [Google DeepMind Blog](https://deepmind.google/discover/blog/) - Gemini, recherche fondamentale
+- [xAI Blog](https://x.ai/blog) - Grok et recherche xAI
+- [Epoch AI](https://epoch.ai/) - Analyses data-driven sur les tendances de capacités IA
+
+### Génération Média (Image, Vidéo, Audio)
+- [Midjourney](https://www.midjourney.com/) - Génération d'images IA
+- [RunwayML](https://runwayml.com/) - Génération et édition vidéo IA
+- [ElevenLabs Blog](https://elevenlabs.io/blog) - Synthèse et clonage vocal
+- [Suno](https://suno.com/) - Génération musicale par IA
+- [Stability AI Blog](https://stability.ai/news) - Stable Diffusion et modèles ouverts
+
+### Infrastructure & Serving IA
+- [vLLM](https://github.com/vllm-project/vllm) - Serving LLM haute performance
+- [Groq](https://groq.com/) - Inférence LLM ultra-rapide (LPU)
+- [Together AI Blog](https://www.together.ai/blog) - Infra et modèles open-source hébergés
+- [Modal Blog](https://modal.com/blog) - Compute serverless pour ML/IA
+
+### Sécurité, Alignement & Politique IA
+- [METR](https://metr.org/) - Évaluations de capacités et de risques des modèles frontières
+- [Apollo Research](https://www.apolloresearch.ai/) - Recherche sur la tromperie et l'alignement des IA
+- [AI Safety Institute (UK)](https://www.aisi.gov.uk/) - Évaluations gouvernementales de sécurité IA
+
 ---
 
 ## 💻 2. Software Engineering (Python, Rust, Golang)
