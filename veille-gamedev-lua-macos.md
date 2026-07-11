@@ -76,6 +76,7 @@
 - [Ghostty](https://ghostty.org/) - Terminal moderne natif macOS
 - [iTerm2](https://iterm2.com/) - Terminal amélioré
 - [Alacritty](https://alacritty.org/) - Terminal GPU-accelerated
+- [Zed](https://zed.dev/) - Éditeur natif en Rust, très rapide sur Apple Silicon
 
 ### Build Tools & Compilers
 - [LLVM/Clang](https://clang.llvm.org/) - Compilateur Apple Silicon
@@ -239,4 +240,4 @@
 
 ---
 
-*Dernière mise à jour: Octobre 2025*
+*Dernière mise à jour: Juillet 2026*

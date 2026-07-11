@@ -17,6 +17,7 @@
 - [Garuda Linux](https://garudalinux.org/) - Arch gaming-focused, btrfs par défaut
 - [CachyOS](https://cachyos.org/) - Arch optimisé performance
 - [Crystal Linux](https://getcryst.al/) - Arch avec installeur moderne
+- [Omarchy](https://omarchy.org/) - Arch + Hyprland préconfiguré par DHH
 
 ### AUR Helpers & Package Management
 - [yay](https://github.com/Jguer/yay) - AUR helper le plus populaire
@@ -74,6 +75,7 @@
 - [Polybar](https://github.com/polybar/polybar) - Bar hautement customisable
 - [Waybar](https://github.com/Alexays/Waybar) - Bar pour Wayland (Sway/Hyprland)
 - [eww](https://github.com/elkowar/eww) - Bar/widgets avec own language
+- [Astal](https://aylur.github.io/astal/) - Toolkit GTK pour bars/widgets Wayland
 - [i3status](https://i3wm.org/i3status/) - Bar minimaliste i3
 - [i3status-rust](https://github.com/greshake/i3status-rust) - i3status en Rust
 - [lemonbar](https://github.com/LemonBoy/bar) - Bar minimaliste scriptable
@@ -93,6 +95,7 @@
 - [kitty](https://sw.kovidgoyal.net/kitty/) - GPU-accelerated, features riches
 - [WezTerm](https://wezfurlong.org/wezterm/) - GPU-accelerated, Lua config
 - [foot](https://codeberg.org/dnkl/foot) - Wayland terminal léger
+- [Ghostty](https://ghostty.org/) - Terminal GPU-accelerated moderne, natif et rapide
 - [st (simple terminal)](https://st.suckless.org/) - Terminal suckless minimaliste
 - [urxvt](http://software.schmorp.de/pkg/rxvt-unicode.html) - Terminal léger classique
 - [Terminator](https://gnome-terminator.org/) - Terminal avec splits
@@ -238,6 +241,7 @@
 - [Nord](https://www.nordtheme.com/) - Thème arctic
 - [Dracula](https://draculatheme.com/) - Thème sombre populaire
 - [Gruvbox](https://github.com/morhetz/gruvbox) - Thème rétro
+- [matugen](https://github.com/InioX/matugen) - Génère des thèmes Material You depuis un wallpaper
 
 ### Font Resources
 - [Nerd Fonts](https://www.nerdfonts.com/) - Fonts avec icônes (essential!)
@@ -406,4 +410,4 @@
 
 ---
 
-*Dernière mise à jour: Octobre 2025*
+*Dernière mise à jour: Juillet 2026*

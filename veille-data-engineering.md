@@ -45,6 +45,7 @@
 - [Apache NiFi](https://nifi.apache.org/) - Data flow automation
 - [Debezium](https://debezium.io/) - Change Data Capture (CDC)
 - [Singer](https://www.singer.io/) - Open-source ETL protocol
+- [dlt (data load tool)](https://dlthub.com/) - Librairie Python d'ingestion légère
 
 ### Data Orchestration
 - [Apache Airflow](https://airflow.apache.org/) - Workflow orchestration leader
@@ -79,6 +80,9 @@
 - [AWS Lake Formation](https://aws.amazon.com/lake-formation/) - Data lake setup
 - [Dremio](https://www.dremio.com/) - Data lakehouse platform
 - [MinIO](https://min.io/) - S3-compatible object storage
+- [Unity Catalog](https://www.unitycatalog.io/) - Catalogue open-source multi-format (Databricks)
+- [Apache Polaris](https://polaris.apache.org/) - Catalogue Iceberg open-source (ex-Snowflake)
+- [DuckLake](https://ducklake.select/) - Format lakehouse sur base SQL (MotherDuck)
 
 ### Streaming & Real-time
 - [Apache Kafka](https://kafka.apache.org/) - Event streaming platform
@@ -385,4 +389,4 @@
 
 ---
 
-*Dernière mise à jour: Octobre 2025*
+*Dernière mise à jour: Juillet 2026*
