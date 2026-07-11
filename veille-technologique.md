@@ -42,10 +42,20 @@
 - [Qwen Blog](https://qwenlm.github.io/) - Modèles open-weight d'Alibaba
 
 ### Modèles de Raisonnement & Frontier Labs
-- [OpenAI Research](https://openai.com/research/) - Papers et annonces modèles (o-series, GPT)
+- [Anthropic News](https://www.anthropic.com/news) - Annonces officielles Claude et produits Anthropic
+- [OpenAI News](https://openai.com/news/) - Annonces produits et modèles OpenAI
+- [OpenAI Research](https://openai.com/research/) - Papers et recherche (o-series, GPT)
 - [Google DeepMind Blog](https://deepmind.google/discover/blog/) - Gemini, recherche fondamentale
+- [Google AI (Gemini) Blog](https://blog.google/products/gemini/) - Annonces produits Gemini
 - [xAI Blog](https://x.ai/blog) - Grok et recherche xAI
 - [Epoch AI](https://epoch.ai/) - Analyses data-driven sur les tendances de capacités IA
+
+### Conférences & Annonces Providers
+- [Google I/O](https://io.google/) - Keynote annuelle Google (Gemini, Android, Search AI) - mai
+- [Microsoft Build](https://build.microsoft.com/) - Conférence dev Microsoft (Copilot, Azure AI) - mai
+- [NVIDIA GTC](https://www.nvidia.com/gtc/) - Conférence hardware/IA de NVIDIA
+- [Meta Connect](https://www.meta.com/connect/) - Annonces IA et Reality Labs de Meta
+- [Anthropic Events](https://www.anthropic.com/events) - Annonces et sessions Anthropic
 
 ### Génération Média (Image, Vidéo, Audio)
 - [Midjourney](https://www.midjourney.com/) - Génération d'images IA
